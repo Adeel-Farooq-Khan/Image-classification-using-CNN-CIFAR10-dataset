@@ -9,8 +9,11 @@ Training: The model is trained using a labeled dataset, with optimization techni
 Evaluation: The model's accuracy is evaluated on a test dataset, and predictions are made to verify its effectiveness.
 ## Libraries Used
 TensorFlow: For building and training the CNN model.
+
 Keras: To simplify model creation and training processes.
+
 NumPy: For handling data arrays and performing numerical computations.
+
 ## Results
 The CNN model achieved accuracy: 0.7864 in classifying images into their respective categories, demonstrating its effectiveness in image recognition tasks.
 
