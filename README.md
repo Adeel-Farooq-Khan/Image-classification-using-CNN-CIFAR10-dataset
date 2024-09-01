@@ -16,7 +16,9 @@ The CNN model achieved accuracy: 0.7864 in classifying images into their respect
 
 ## How to Run
 Clone the repository.
+
 Install the required dependencies.
+
 Run the Jupyter notebook to train and evaluate the model.
 ## Conclusion
 This project highlights the power of CNNs in image classification and offers a comprehensive example of applying deep learning techniques to real-world problems. The skills acquired during this project will be valuable in future AI and machine learning endeavors.
